@@ -1,0 +1,45 @@
+{
+  "scope": "Evidence appended after the original asset bundle; original entries unchanged.",
+  "files": [
+    {
+      "path": "INVESTIGATION.md",
+      "bytes": 9515,
+      "sha256": "bc7a62a0fd8b336b9a7008feb07ddc686ab613e125c9ff63666c4991ea8fd3f3"
+    },
+    {
+      "path": "ENGINE_INVESTIGATION.md",
+      "bytes": 5448,
+      "sha256": "260fb685a35f75fd83e1dfcc929e5f23e770a8fb1aa7236151ba8c1c903d6bdb"
+    },
+    {
+      "path": "inspect_assets.py",
+      "bytes": 4340,
+      "sha256": "f77219ea6ec7e1985d5a0af855313edc954e9605d8aa54f44e3758f955dc117d"
+    },
+    {
+      "path": "engine_static_evidence.py",
+      "bytes": 8415,
+      "sha256": "43a22bc326ebace957f872cd572eda042c011dcd890e5046b1d86bbae95efa92"
+    },
+    {
+      "path": "append_investigation.py",
+      "bytes": 3177,
+      "sha256": "0b62cb8384c55bf2d7441a944b11b69fb1a006312f5deb0c21dd45ffe5320567"
+    },
+    {
+      "path": "snapshot/asset-evidence.json",
+      "bytes": 490397,
+      "sha256": "88486f7ddc3e4a353bb37915ff724e01937e1c1d319fc0bd8e0689b614b43196"
+    },
+    {
+      "path": "snapshot/engine-evidence.json",
+      "bytes": 167118,
+      "sha256": "841bd31bce4fcb036a07029d15ac6451fff468234417b1648e81de0ee7185856"
+    },
+    {
+      "path": "snapshot/domain-rdap.json",
+      "bytes": 2548,
+      "sha256": "bebf4dc758c6355c686f780cdb1e76773a3dc657d80c3d256424ed9d41dc8955"
+    }
+  ]
+}

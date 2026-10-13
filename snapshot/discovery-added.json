@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/favicon.ico",
+    "url": "https://playgta5.com/favicon.ico",
+    "bytes": 7358,
+    "sha256": "5b910f8369fc6cf04503c24748de67ce38b01d95acca02c730e47abca4226e76",
+    "content_type": "image/vnd.microsoft.icon",
+    "provenance": "conventional-or-runtime-derived"
+  },
+  {
+    "path": "/robots.txt",
+    "url": "https://playgta5.com/robots.txt",
+    "bytes": 14,
+    "sha256": "fd89345af6aca5dab85f2aa6a830e270a362b1fa6b5f19607ddd773a081ed651",
+    "content_type": "text/plain",
+    "provenance": "conventional-or-runtime-derived"
+  }
+]

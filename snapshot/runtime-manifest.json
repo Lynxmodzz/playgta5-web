@@ -1,0 +1,232 @@
+{
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "source": "C:\\Users\\sebas\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python",
+  "scope": "Python executable, DLLs and standard library; third-party packages excluded",
+  "files": [
+    {
+      "path": "runtime/DLLs/_asyncio.pyd",
+      "bytes": 75056,
+      "sha256": "c32c4cde3ba5364fe60693cfdf77e7a5033b812e3b771c31cf3bf062c7694bb7"
+    },
+    {
+      "path": "runtime/DLLs/_bz2.pyd",
+      "bytes": 88880,
+      "sha256": "54268c5cbefd96d9df377b40817cc09447d3a0a6734c300c442c0dde30cc75d7"
+    },
+    {
+      "path": "runtime/DLLs/_ctypes.pyd",
+      "bytes": 131888,
+      "sha256": "eb533050b0b61203cc4918da1826372add87fe4acddb3f6e7b31301c7f93e67d"
+    },
+    {
+      "path": "runtime/DLLs/_ctypes_test.pyd",
+      "bytes": 40752,
+      "sha256": "944ebaf9290e13154e9aa47d26cac5cfa7f43c03264244f384687525ff9bff17"
+    },
+    {
+      "path": "runtime/DLLs/_decimal.pyd",
+      "bytes": 263984,
+      "sha256": "539f8c32a3eafcf717cddbccf243167610671c5243ec3c7c40987d81066a557f"
+    },
+    {
+      "path": "runtime/DLLs/_elementtree.pyd",
+      "bytes": 137520,
+      "sha256": "abb69428efa1dbf893f904424abed3cdfecb5357e450ddda544efb96ad8bb7d5"
+    },
+    {
+      "path": "runtime/DLLs/_hashlib.pyd",
+      "bytes": 70448,
+      "sha256": "d99963665f72156067b432753d153ea456d0a0fa49d235c9b61bdb0a0d372ba4"
+    },
+    {
+      "path": "runtime/DLLs/_lzma.pyd",
+      "bytes": 168240,
+      "sha256": "6337c7e78b7753865b2759cf296449b9d7af6aae0708b364ab9550dad00272be"
+    },
+    {
+      "path": "runtime/DLLs/_msi.pyd",
+      "bytes": 48944,
+      "sha256": "5756eaa6468578064e8d7d8ecf172d1025dd173784ad39a09c4664b1722015b7"
+    },
+    {
+      "path": "runtime/DLLs/_multiprocessing.pyd",
+      "bytes": 39728,
+      "sha256": "d7a31223cc28115a179bdee1b48d690b5ab40377bd362b4d996a14268bee3fe5"
+    },
+    {
+      "path": "runtime/DLLs/_overlapped.pyd",
+      "bytes": 59696,
+      "sha256": "51a995c207d62f0260b0dad3ea2ceecef8ec97c68a39633a71bf6528b70778fe"
+    },
+    {
+      "path": "runtime/DLLs/_queue.pyd",
+      "bytes": 36144,
+      "sha256": "58e25f92fdb920e0f3a57f444f89e35076d26758e8362098161f6ac7e6e6e04c"
+    },
+    {
+      "path": "runtime/DLLs/_socket.pyd",
+      "bytes": 87344,
+      "sha256": "371ae9f492330c021cb371a2e5be88ecb38b4e0dcb45a9f47376502b7920ff17"
+    },
+    {
+      "path": "runtime/DLLs/_sqlite3.pyd",
+      "bytes": 127792,
+      "sha256": "875c66adc9c9fd5efdc5582c7ea5d04cdb060308f63240d6d1032e8023ba2bda"
+    },
+    {
+      "path": "runtime/DLLs/_ssl.pyd",
+      "bytes": 180528,
+      "sha256": "d71677bb53df30a58510d0985174132f12374207310aa4895d8a6b8b8fcc66a3"
+    },
+    {
+      "path": "runtime/DLLs/_testbuffer.pyd",
+      "bytes": 59184,
+      "sha256": "ebe007e87a83e7665635b5516cbbfc840da2a7293343a9024836c1aaa69cddad"
+    },
+    {
+      "path": "runtime/DLLs/_testcapi.pyd",
+      "bytes": 313648,
+      "sha256": "5fdfd340e35e3e0cb7859533b2637dced48b5b45ee561cd2c533426db3bc0e27"
+    },
+    {
+      "path": "runtime/DLLs/_testclinic.pyd",
+      "bytes": 70960,
+      "sha256": "402d00e1d2f393c60845c648d27cf01ab0b914f47fc05f2542b680562584c2ef"
+    },
+    {
+      "path": "runtime/DLLs/_testconsole.pyd",
+      "bytes": 31024,
+      "sha256": "d8a8525fb72d269897caae4fe19894cc179614fffab4c53dd610bc62c0a7db8f"
+    },
+    {
+      "path": "runtime/DLLs/_testimportmultiple.pyd",
+      "bytes": 28976,
+      "sha256": "7dd7bda93da62411da92d11fa3de6ce2e0e6ee91e3674bfc62267cfc7f55cb54"
+    },
+    {
+      "path": "runtime/DLLs/_testinternalcapi.pyd",
+      "bytes": 55600,
+      "sha256": "366890537b826bbe24c61d2a2aaae24c8a0e07f42314e2008758835af0874723"
+    },
+    {
+      "path": "runtime/DLLs/_testmultiphase.pyd",
+      "bytes": 43312,
+      "sha256": "376d6e37467e051f79936526211fbb83e9aaf5f53691f3bb50a31cc422a7ea2e"
+    },
+    {
+      "path": "runtime/DLLs/_testsinglephase.pyd",
+      "bytes": 34096,
+      "sha256": "8043087deb5c3dc9a74a35ea10cc6d2128f78040b2f0234cc6c7411484b848e0"
+    },
+    {
+      "path": "runtime/DLLs/_tkinter.pyd",
+      "bytes": 70960,
+      "sha256": "f98732922cf1d4a3c07fd532a0d8c045d546d834bb643f0b770a21bca8b56bf1"
+    },
+    {
+      "path": "runtime/DLLs/_uuid.pyd",
+      "bytes": 29488,
+      "sha256": "894f95ed8be644b3778a9836afd9bdbd6bd31df7788fd2683aff830b60badefa"
+    },
+    {
+      "path": "runtime/DLLs/_wmi.pyd",
+      "bytes": 41264,
+      "sha256": "ea6ee0a2091687f2d68bfa6f871af2377c073a1b980db87082fb8887cca12a65"
+    },
+    {
+      "path": "runtime/DLLs/_zoneinfo.pyd",
+      "bytes": 52016,
+      "sha256": "ed34859eed62915ee1756dc264ef9656ab38e8d5fd250be10ee4df2f9f3a6599"
+    },
+    {
+      "path": "runtime/DLLs/libcrypto-3-x64.dll",
+      "bytes": 8003376,
+      "sha256": "35e0ae43af2876903b00ba955e400f6da1787defb1ba18b7ff35e540c7f4ed66"
+    },
+    {
+      "path": "runtime/DLLs/libffi-8.dll",
+      "bytes": 43824,
+      "sha256": "34985fc0a2d5942dd6c0cf3205549dc56ed6ebef410884419c87e5fe4e00e988"
+    },
+    {
+      "path": "runtime/DLLs/libssl-3-x64.dll",
+      "bytes": 1599280,
+      "sha256": "5bb445df170ac3df4524cd1f7edbad09bb249b77d1144f58ebd1615f730d162e"
+    },
+    {
+      "path": "runtime/DLLs/pyexpat.pyd",
+      "bytes": 226096,
+      "sha256": "6805f27fe87f66249f1a94098ebe4fa387e93bf1f0f751b49db55c25ecfb966d"
+    },
+    {
+      "path": "runtime/DLLs/select.pyd",
+      "bytes": 34608,
+      "sha256": "f04b6cb67a4fe77545bf7ebfb320b6ad216b5dc743215a33d70cd081233c94ac"
+    },
+    {
+      "path": "runtime/DLLs/sqlite3.dll",
+      "bytes": 1623344,
+      "sha256": "bcef9117c3a2a3d0d46d098d28e679f312b2f874482f6825e29d082b1652e127"
+    },
+    {
+      "path": "runtime/DLLs/tcl86t.dll",
+      "bytes": 1866480,
+      "sha256": "fbfd065f861ec0a90dd513bc209c56bbc23c54d2839964a0ec2df95848af7860"
+    },
+    {
+      "path": "runtime/DLLs/tk86t.dll",
+      "bytes": 1541872,
+      "sha256": "cd2f60075064dfc2e65c88b239a970cb4bd07cb3eec7cc26fb1bf978d4356b08"
+    },
+    {
+      "path": "runtime/DLLs/unicodedata.pyd",
+      "bytes": 1143600,
+      "sha256": "6429fe36429af848faea82122ebd7f5c72b05d9ba643d0b3a92eafaf9f27d10c"
+    },
+    {
+      "path": "runtime/DLLs/winsound.pyd",
+      "bytes": 34096,
+      "sha256": "323ab6266ffec02f14ff0b64165933306f1053a4c8d778f7eb011a0bd15e3a6f"
+    },
+    {
+      "path": "runtime/LICENSE.txt",
+      "bytes": 25066,
+      "sha256": "886a0ead2d89030ee62dbff52b04e47ab91998341295bb9c56fb952b4e081c7a"
+    },
+    {
+      "path": "runtime/python.exe",
+      "bytes": 107312,
+      "sha256": "372c2eae555b344520bf147be0096e009069aeca4e7f78d6aecea6d53158056a"
+    },
+    {
+      "path": "runtime/python3.dll",
+      "bytes": 71984,
+      "sha256": "c57bc21e131857f26db78d1512fbfcf67cac3273ee8b1cd704ed5645ec250884"
+    },
+    {
+      "path": "runtime/python312._pth",
+      "bytes": 28,
+      "sha256": "023dc5c098ea903bded3f2d0b126aa9513862b47d5c3977132555c5b2476fb71"
+    },
+    {
+      "path": "runtime/python312.dll",
+      "bytes": 6985520,
+      "sha256": "c1ce6d603041759061139f482c4b90c4ac9db676e30abf52fda66a794aab1bd0"
+    },
+    {
+      "path": "runtime/python312.zip",
+      "bytes": 5333079,
+      "sha256": "e67938cd5fa246d57319d2d47a773c4c765f50f54c682345daf702b4ae5e5158"
+    },
+    {
+      "path": "runtime/vcruntime140.dll",
+      "bytes": 124544,
+      "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+    },
+    {
+      "path": "runtime/vcruntime140_1.dll",
+      "bytes": 49792,
+      "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f"
+    }
+  ]
+}

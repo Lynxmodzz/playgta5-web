@@ -1,0 +1,254 @@
+{
+  "candidates": [
+    "/",
+    "/b/",
+    "/b/8b0b5899ed/prejs.js",
+    "/data/common/data/anim/",
+    "/data/common/data/audio/",
+    "/data/common/data/glass/PANE/",
+    "/data/common/data/glass/PANE_WEAK/",
+    "/data/common/data/glass/SECURITY/",
+    "/data/common/data/levels/",
+    "/data/common/data/script/",
+    "/data/common/data/script/xml/SPDeadline/",
+    "/data/common/data/script/xml/SP_Races/",
+    "/data/common/data/script/xml/ShootingRange/",
+    "/data/common/non_final/",
+    "/data/common/non_final/anim/move/",
+    "/data/common/non_final/www/",
+    "/data/x64/data/anim/",
+    "/data/x64/data/legal/",
+    "/data/x64/dlcPacks/",
+    "/data/x64/levels/",
+    "/data/x64/levels/gta5/destruction/",
+    "/data/x64/levels/testbed/",
+    "/data/x64/patch/",
+    "/data/x64/patch/levels/",
+    "/data/x64/patch/levels/gta5/",
+    "/data/x64/patch/levels/gta5/props/",
+    "/sw.js"
+  ],
+  "attempts": [
+    {
+      "url": "https://playgta5.com/",
+      "path": "/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 45087,
+      "elapsed_ms": 140
+    },
+    {
+      "url": "https://playgta5.com/b/",
+      "path": "/b/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 531
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/prejs.js",
+      "path": "/b/8b0b5899ed/prejs.js",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/anim/",
+      "path": "/data/common/data/anim/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/audio/",
+      "path": "/data/common/data/audio/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE/",
+      "path": "/data/common/data/glass/PANE/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE_WEAK/",
+      "path": "/data/common/data/glass/PANE_WEAK/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 500
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/SECURITY/",
+      "path": "/data/common/data/glass/SECURITY/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 500
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/",
+      "path": "/data/common/data/levels/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/",
+      "path": "/data/common/data/script/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 500
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/",
+      "path": "/data/common/data/script/xml/SPDeadline/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 453
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/",
+      "path": "/data/common/data/script/xml/SP_Races/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 391
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/ShootingRange/",
+      "path": "/data/common/data/script/xml/ShootingRange/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 453
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/",
+      "path": "/data/common/non_final/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 359
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/anim/move/",
+      "path": "/data/common/non_final/anim/move/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 421
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/",
+      "path": "/data/common/non_final/www/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 406
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/anim/",
+      "path": "/data/x64/data/anim/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 438
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/",
+      "path": "/data/x64/data/legal/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/",
+      "path": "/data/x64/dlcPacks/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 390
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/",
+      "path": "/data/x64/levels/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/destruction/",
+      "path": "/data/x64/levels/gta5/destruction/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 406
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/testbed/",
+      "path": "/data/x64/levels/testbed/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 375
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/",
+      "path": "/data/x64/patch/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 437
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/",
+      "path": "/data/x64/patch/levels/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/gta5/",
+      "path": "/data/x64/patch/levels/gta5/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/gta5/props/",
+      "path": "/data/x64/patch/levels/gta5/props/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 407
+    },
+    {
+      "url": "https://playgta5.com/sw.js",
+      "path": "/sw.js",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    }
+  ],
+  "status_counts": {
+    "200": 1,
+    "404": 26
+  },
+  "added": []
+}

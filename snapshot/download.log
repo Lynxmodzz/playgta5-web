@@ -1,0 +1,62 @@
+2026-10-06 05:26:08 START pid=29932 files=5879 data_bytes=20944285552 cap=25165824
+2026-10-06 05:26:18 PROGRESS {"pid": 29932, "completed": 106, "total": 5879, "received_bytes_this_run": 149906391, "elapsed_seconds": 10, "average_MiB_s": 13.99, "failures": 0}
+2026-10-06 05:26:28 PROGRESS {"pid": 29932, "completed": 267, "total": 5879, "received_bytes_this_run": 170635537, "elapsed_seconds": 20, "average_MiB_s": 8.04, "failures": 0}
+2026-10-06 05:26:38 PROGRESS {"pid": 29932, "completed": 381, "total": 5879, "received_bytes_this_run": 178763080, "elapsed_seconds": 30, "average_MiB_s": 5.64, "failures": 0}
+2026-10-06 05:26:48 PROGRESS {"pid": 29932, "completed": 506, "total": 5879, "received_bytes_this_run": 196310489, "elapsed_seconds": 40, "average_MiB_s": 4.65, "failures": 0}
+2026-10-06 05:26:58 PROGRESS {"pid": 29932, "completed": 741, "total": 5879, "received_bytes_this_run": 332908019, "elapsed_seconds": 50, "average_MiB_s": 6.32, "failures": 0}
+2026-10-06 05:27:08 PROGRESS {"pid": 29932, "completed": 821, "total": 5879, "received_bytes_this_run": 341737921, "elapsed_seconds": 60, "average_MiB_s": 5.41, "failures": 0}
+2026-10-06 05:27:18 PROGRESS {"pid": 29932, "completed": 906, "total": 5879, "received_bytes_this_run": 343968970, "elapsed_seconds": 70, "average_MiB_s": 4.67, "failures": 0}
+2026-10-06 05:27:28 PROGRESS {"pid": 29932, "completed": 993, "total": 5879, "received_bytes_this_run": 344057051, "elapsed_seconds": 80, "average_MiB_s": 4.09, "failures": 0}
+2026-10-06 05:27:38 PROGRESS {"pid": 29932, "completed": 1072, "total": 5879, "received_bytes_this_run": 344342417, "elapsed_seconds": 90, "average_MiB_s": 3.64, "failures": 0}
+2026-10-06 05:27:48 PROGRESS {"pid": 29932, "completed": 1159, "total": 5879, "received_bytes_this_run": 344559526, "elapsed_seconds": 100, "average_MiB_s": 3.28, "failures": 0}
+2026-10-06 05:27:58 PROGRESS {"pid": 29932, "completed": 1245, "total": 5879, "received_bytes_this_run": 344749712, "elapsed_seconds": 110, "average_MiB_s": 2.98, "failures": 0}
+2026-10-06 05:28:08 PROGRESS {"pid": 29932, "completed": 1326, "total": 5879, "received_bytes_this_run": 358981915, "elapsed_seconds": 120, "average_MiB_s": 2.85, "failures": 0}
+2026-10-06 05:28:18 PROGRESS {"pid": 29932, "completed": 1429, "total": 5879, "received_bytes_this_run": 362552265, "elapsed_seconds": 130, "average_MiB_s": 2.65, "failures": 0}
+2026-10-06 05:28:28 PROGRESS {"pid": 29932, "completed": 1530, "total": 5879, "received_bytes_this_run": 364161317, "elapsed_seconds": 140, "average_MiB_s": 2.48, "failures": 0}
+2026-10-06 05:28:38 PROGRESS {"pid": 29932, "completed": 1616, "total": 5879, "received_bytes_this_run": 364649016, "elapsed_seconds": 150, "average_MiB_s": 2.31, "failures": 0}
+2026-10-06 05:28:48 PROGRESS {"pid": 29932, "completed": 1693, "total": 5879, "received_bytes_this_run": 369664253, "elapsed_seconds": 160, "average_MiB_s": 2.2, "failures": 0}
+2026-10-06 05:28:58 PROGRESS {"pid": 29932, "completed": 1766, "total": 5879, "received_bytes_this_run": 374111123, "elapsed_seconds": 170, "average_MiB_s": 2.1, "failures": 0}
+2026-10-06 05:29:08 PROGRESS {"pid": 29932, "completed": 1837, "total": 5879, "received_bytes_this_run": 381062855, "elapsed_seconds": 180, "average_MiB_s": 2.02, "failures": 0}
+2026-10-06 05:29:18 PROGRESS {"pid": 29932, "completed": 1914, "total": 5879, "received_bytes_this_run": 386798816, "elapsed_seconds": 190, "average_MiB_s": 1.94, "failures": 0}
+2026-10-06 05:29:28 PROGRESS {"pid": 29932, "completed": 1993, "total": 5879, "received_bytes_this_run": 392869547, "elapsed_seconds": 200, "average_MiB_s": 1.87, "failures": 0}
+2026-10-06 05:29:38 PROGRESS {"pid": 29932, "completed": 2060, "total": 5879, "received_bytes_this_run": 399407907, "elapsed_seconds": 210, "average_MiB_s": 1.81, "failures": 0}
+2026-10-06 05:29:44 START pid=9772 files=5879 data_bytes=20944285552 cap=0
+2026-10-06 05:29:45 RETRY 1 /data/common/non_final/www/parser/schemas.html: body length 3075 != 3073
+2026-10-06 05:29:45 RETRY 1 /data/common/non_final/www/parser/psomismatch.html: body length 5718 != 5716
+2026-10-06 05:29:47 RETRY 2 /data/common/non_final/www/parser/psomismatch.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:29:47 RETRY 2 /data/common/non_final/www/parser/schemas.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:29:51 RETRY 3 /data/common/non_final/www/parser/psomismatch.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:29:51 RETRY 3 /data/common/non_final/www/parser/schemas.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:29:54 PROGRESS {"pid": 9772, "completed": 3362, "total": 5879, "received_bytes_this_run": 224587551, "elapsed_seconds": 10, "average_MiB_s": 20.93, "failures": 0}
+2026-10-06 05:29:59 RETRY 4 /data/common/non_final/www/parser/psomismatch.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:29:59 RETRY 4 /data/common/non_final/www/parser/schemas.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:30:04 PROGRESS {"pid": 9772, "completed": 3680, "total": 5879, "received_bytes_this_run": 345620660, "elapsed_seconds": 20, "average_MiB_s": 16.29, "failures": 2}
+2026-10-06 05:30:14 PROGRESS {"pid": 9772, "completed": 3680, "total": 5879, "received_bytes_this_run": 345620660, "elapsed_seconds": 30, "average_MiB_s": 10.9, "failures": 2}
+2026-10-06 05:30:21 RETRY 1 /data/x64/anim/cutscene/cuts_family_1.rpf: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2026-10-06 05:30:24 PROGRESS {"pid": 9772, "completed": 3680, "total": 5879, "received_bytes_this_run": 345620660, "elapsed_seconds": 40, "average_MiB_s": 8.19, "failures": 2}
+2026-10-06 05:30:34 PROGRESS {"pid": 9772, "completed": 3683, "total": 5879, "received_bytes_this_run": 366518452, "elapsed_seconds": 50, "average_MiB_s": 6.96, "failures": 2}
+2026-10-06 05:30:35 START pid=3048 files=5879 data_bytes=20944285552 cap=0
+2026-10-06 05:30:35 RETRY 1 /data/common/non_final/www/parser/schemas.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:30:35 RETRY 1 /data/common/non_final/www/parser/psomismatch.html: HTTP Error 416: Range Not Satisfiable
+2026-10-06 05:30:38 SIZE DISCREPANCY /data/common/non_final/www/parser/psomismatch.html: manifest=5716 server=5718
+2026-10-06 05:30:38 SIZE DISCREPANCY /data/common/non_final/www/parser/schemas.html: manifest=3073 server=3075
+2026-10-06 05:30:45 PROGRESS {"pid": 3048, "completed": 3841, "total": 5879, "received_bytes_this_run": 1115560083, "elapsed_seconds": 10, "average_MiB_s": 103.96, "failures": 0}
+2026-10-06 05:30:55 PROGRESS {"pid": 3048, "completed": 3985, "total": 5879, "received_bytes_this_run": 2283653400, "elapsed_seconds": 20, "average_MiB_s": 107.63, "failures": 0}
+2026-10-06 05:31:05 PROGRESS {"pid": 3048, "completed": 4130, "total": 5879, "received_bytes_this_run": 3451996315, "elapsed_seconds": 30, "average_MiB_s": 108.89, "failures": 0}
+2026-10-06 05:31:15 PROGRESS {"pid": 3048, "completed": 4174, "total": 5879, "received_bytes_this_run": 4628088987, "elapsed_seconds": 40, "average_MiB_s": 109.7, "failures": 0}
+2026-10-06 05:31:25 PROGRESS {"pid": 3048, "completed": 4249, "total": 5879, "received_bytes_this_run": 5801154715, "elapsed_seconds": 50, "average_MiB_s": 110.13, "failures": 0}
+2026-10-06 05:31:35 PROGRESS {"pid": 3048, "completed": 4298, "total": 5879, "received_bytes_this_run": 6950547756, "elapsed_seconds": 60, "average_MiB_s": 110.02, "failures": 0}
+2026-10-06 05:31:45 PROGRESS {"pid": 3048, "completed": 4358, "total": 5879, "received_bytes_this_run": 8108158032, "elapsed_seconds": 70, "average_MiB_s": 110.07, "failures": 0}
+2026-10-06 05:31:55 PROGRESS {"pid": 3048, "completed": 4474, "total": 5879, "received_bytes_this_run": 9280493736, "elapsed_seconds": 80, "average_MiB_s": 110.29, "failures": 0}
+2026-10-06 05:32:05 PROGRESS {"pid": 3048, "completed": 4635, "total": 5879, "received_bytes_this_run": 10442750120, "elapsed_seconds": 90, "average_MiB_s": 110.35, "failures": 0}
+2026-10-06 05:32:15 PROGRESS {"pid": 3048, "completed": 4816, "total": 5879, "received_bytes_this_run": 11604408488, "elapsed_seconds": 100, "average_MiB_s": 110.39, "failures": 0}
+2026-10-06 05:32:25 PROGRESS {"pid": 3048, "completed": 4906, "total": 5879, "received_bytes_this_run": 12772896936, "elapsed_seconds": 110, "average_MiB_s": 110.47, "failures": 0}
+2026-10-06 05:32:35 PROGRESS {"pid": 3048, "completed": 4959, "total": 5879, "received_bytes_this_run": 13943910568, "elapsed_seconds": 120, "average_MiB_s": 110.57, "failures": 0}
+2026-10-06 05:32:45 PROGRESS {"pid": 3048, "completed": 5037, "total": 5879, "received_bytes_this_run": 15088896168, "elapsed_seconds": 130, "average_MiB_s": 110.47, "failures": 0}
+2026-10-06 05:32:55 PROGRESS {"pid": 3048, "completed": 5236, "total": 5879, "received_bytes_this_run": 16227506232, "elapsed_seconds": 140, "average_MiB_s": 110.33, "failures": 0}
+2026-10-06 05:33:05 PROGRESS {"pid": 3048, "completed": 5777, "total": 5879, "received_bytes_this_run": 17366685931, "elapsed_seconds": 150, "average_MiB_s": 110.21, "failures": 0}
+2026-10-06 05:33:15 PROGRESS {"pid": 3048, "completed": 5863, "total": 5879, "received_bytes_this_run": 18537795345, "elapsed_seconds": 160, "average_MiB_s": 110.3, "failures": 0}
+2026-10-06 05:33:25 PROGRESS {"pid": 3048, "completed": 5875, "total": 5879, "received_bytes_this_run": 19707379473, "elapsed_seconds": 170, "average_MiB_s": 110.37, "failures": 0}
+2026-10-06 05:33:35 PROGRESS {"pid": 3048, "completed": 5878, "total": 5879, "received_bytes_this_run": 20165299985, "elapsed_seconds": 180, "average_MiB_s": 106.67, "failures": 0}
+2026-10-06 05:33:45 PROGRESS {"pid": 3048, "completed": 5879, "total": 5879, "received_bytes_this_run": 20314451729, "elapsed_seconds": 190, "average_MiB_s": 101.81, "failures": 0}
+2026-10-06 05:33:56 FINISHED downloaded=5879 failures=0 expanded_shader_files=6594

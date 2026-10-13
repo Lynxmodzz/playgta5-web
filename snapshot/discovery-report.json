@@ -1,0 +1,2286 @@
+{
+  "base": "https://playgta5.com",
+  "run_utc": "2026-10-06T03:43:15Z",
+  "user_agent": "curl/8.0 public-mirror-discovery",
+  "network_concurrency": 16,
+  "known_input_paths": 12480,
+  "known_derived_directories": 224,
+  "build_ids": [
+    "8b0b5899ed"
+  ],
+  "attempt_count": 281,
+  "status_counts": {
+    "None": 158,
+    "522": 32,
+    "502": 5,
+    "404": 83,
+    "200": 3
+  },
+  "added_count": 2,
+  "added_bytes": 7372,
+  "attempts": [
+    {
+      "url": "https://playgta5.com/.well-known/security.txt",
+      "path": "/.well-known/security.txt",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/apple-touch-icon.png",
+      "path": "/apple-touch-icon.png",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/",
+      "path": "/b/8b0b5899ed/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20578
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/audio-worklet.js.map",
+      "path": "/b/8b0b5899ed/audio-worklet.js.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/game.js.map",
+      "path": "/b/8b0b5899ed/game.js.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/io_worker.js.map",
+      "path": "/b/8b0b5899ed/io_worker.js.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/loader.js.map",
+      "path": "/b/8b0b5899ed/loader.js.map",
+      "status": 502,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19735
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/manifest.json",
+      "path": "/b/8b0b5899ed/manifest.json",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/manifest.webmanifest",
+      "path": "/b/8b0b5899ed/manifest.webmanifest",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25125
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/service-worker.js",
+      "path": "/b/8b0b5899ed/service-worker.js",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19719
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/shaders/",
+      "path": "/b/8b0b5899ed/shaders/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/sw.js",
+      "path": "/b/8b0b5899ed/sw.js",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25078
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/title/",
+      "path": "/b/8b0b5899ed/title/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25062
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/title/art/",
+      "path": "/b/8b0b5899ed/title/art/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/wgpu_worker.js.map",
+      "path": "/b/8b0b5899ed/wgpu_worker.js.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25062
+    },
+    {
+      "url": "https://playgta5.com/browserconfig.xml",
+      "path": "/browserconfig.xml",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25062
+    },
+    {
+      "url": "https://playgta5.com/data/",
+      "path": "/data/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/",
+      "path": "/data/common/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/",
+      "path": "/data/common/data/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/Scaleform/",
+      "path": "/data/common/data/Scaleform/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/action/",
+      "path": "/data/common/data/action/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/ai/",
+      "path": "/data/common/data/ai/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/anim/expression_sets/",
+      "path": "/data/common/data/anim/expression_sets/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/anim/facial_clipset_groups/",
+      "path": "/data/common/data/anim/facial_clipset_groups/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/anim/pose_databases/",
+      "path": "/data/common/data/anim/pose_databases/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/audio/occlusion/",
+      "path": "/data/common/data/audio/occlusion/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/cloth/",
+      "path": "/data/common/data/cloth/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/control/",
+      "path": "/data/common/data/control/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/debug/",
+      "path": "/data/common/data/debug/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/effects/",
+      "path": "/data/common/data/effects/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/effects/bink/",
+      "path": "/data/common/data/effects/bink/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/effects/peds/",
+      "path": "/data/common/data/effects/peds/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/",
+      "path": "/data/common/data/glass/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE/0x0/",
+      "path": "/data/common/data/glass/PANE/0x0/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE/1x1/",
+      "path": "/data/common/data/glass/PANE/1x1/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE/2x2/",
+      "path": "/data/common/data/glass/PANE/2x2/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE/3x3/",
+      "path": "/data/common/data/glass/PANE/3x3/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE_WEAK/0x0/",
+      "path": "/data/common/data/glass/PANE_WEAK/0x0/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE_WEAK/1x1/",
+      "path": "/data/common/data/glass/PANE_WEAK/1x1/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE_WEAK/2x2/",
+      "path": "/data/common/data/glass/PANE_WEAK/2x2/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE_WEAK/3x3/",
+      "path": "/data/common/data/glass/PANE_WEAK/3x3/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/SECURITY/0x0/",
+      "path": "/data/common/data/glass/SECURITY/0x0/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/anim_test/",
+      "path": "/data/common/data/levels/anim_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/common/",
+      "path": "/data/common/data/levels/common/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/concept_test/",
+      "path": "/data/common/data/levels/concept_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/cptestbed/",
+      "path": "/data/common/data/levels/cptestbed/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/env_test/",
+      "path": "/data/common/data/levels/env_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/gfx_test/",
+      "path": "/data/common/data/levels/gfx_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/gta5/",
+      "path": "/data/common/data/levels/gta5/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/gta5/resident/",
+      "path": "/data/common/data/levels/gta5/resident/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/gta5/weather/",
+      "path": "/data/common/data/levels/gta5/weather/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/ip_testbed/",
+      "path": "/data/common/data/levels/ip_testbed/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/nettestbed/",
+      "path": "/data/common/data/levels/nettestbed/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/nm_test/",
+      "path": "/data/common/data/levels/nm_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/stripped/",
+      "path": "/data/common/data/levels/stripped/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/testbed/",
+      "path": "/data/common/data/levels/testbed/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/tools_test/",
+      "path": "/data/common/data/levels/tools_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/vfx_test/",
+      "path": "/data/common/data/levels/vfx_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/vfx_test/timecycle/",
+      "path": "/data/common/data/levels/vfx_test/timecycle/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/waterbed/",
+      "path": "/data/common/data/levels/waterbed/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/maps/",
+      "path": "/data/common/data/maps/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/materials/",
+      "path": "/data/common/data/materials/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/naturalmotion/",
+      "path": "/data/common/data/naturalmotion/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/paths/",
+      "path": "/data/common/data/paths/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/",
+      "path": "/data/common/data/script/xml/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/InteriorLocationInfo/",
+      "path": "/data/common/data/script/xml/InteriorLocationInfo/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/MPDebug/",
+      "path": "/data/common/data/script/xml/MPDebug/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/MPDebug/MP_AmbientCop/",
+      "path": "/data/common/data/script/xml/MPDebug/MP_AmbientCop/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/MPDebug/MP_AmbientCrim/",
+      "path": "/data/common/data/script/xml/MPDebug/MP_AmbientCrim/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/MPDebug/MP_Freemode/",
+      "path": "/data/common/data/script/xml/MPDebug/MP_Freemode/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/MPDebug/MP_MissionsCop/",
+      "path": "/data/common/data/script/xml/MPDebug/MP_MissionsCop/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/MPDebug/MP_MissionsCrim/",
+      "path": "/data/common/data/script/xml/MPDebug/MP_MissionsCrim/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Dec/",
+      "path": "/data/common/data/script/xml/SPDeadline/Dec/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Feb/",
+      "path": "/data/common/data/script/xml/SPDeadline/Feb/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/July/",
+      "path": "/data/common/data/script/xml/SPDeadline/July/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/June/",
+      "path": "/data/common/data/script/xml/SPDeadline/June/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/March/",
+      "path": "/data/common/data/script/xml/SPDeadline/March/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19890
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Nov/",
+      "path": "/data/common/data/script/xml/SPDeadline/Nov/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Sept/",
+      "path": "/data/common/data/script/xml/SPDeadline/Sept/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20016
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Set1/",
+      "path": "/data/common/data/script/xml/SPDeadline/Set1/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Set2/",
+      "path": "/data/common/data/script/xml/SPDeadline/Set2/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19641
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/Set3/",
+      "path": "/data/common/data/script/xml/SPDeadline/Set3/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDebug/",
+      "path": "/data/common/data/script/xml/SPDebug/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDebug/art_junctions/",
+      "path": "/data/common/data/script/xml/SPDebug/art_junctions/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPPlaythrough/",
+      "path": "/data/common/data/script/xml/SPPlaythrough/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19891
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/Offroad_Races/",
+      "path": "/data/common/data/script/xml/SP_Races/Offroad_Races/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/Offroad_Races/Races/",
+      "path": "/data/common/data/script/xml/SP_Races/Offroad_Races/Races/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/StuntPlaneRaces/",
+      "path": "/data/common/data/script/xml/SP_Races/StuntPlaneRaces/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/StuntPlaneRaces/Races/",
+      "path": "/data/common/data/script/xml/SP_Races/StuntPlaneRaces/Races/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/Triathlon/",
+      "path": "/data/common/data/script/xml/SP_Races/Triathlon/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/Triathlon/Races/",
+      "path": "/data/common/data/script/xml/SP_Races/Triathlon/Races/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19672
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/ShootingRange/Ranges/",
+      "path": "/data/common/data/script/xml/ShootingRange/Ranges/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/Testbed/",
+      "path": "/data/common/data/script/xml/Testbed/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/actionRecorder/",
+      "path": "/data/common/data/script/xml/actionRecorder/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/debug/",
+      "path": "/data/common/data/script/xml/debug/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19625
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/network/",
+      "path": "/data/common/data/script/xml/network/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25046
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/streaming/",
+      "path": "/data/common/data/streaming/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19687
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/timecycle/",
+      "path": "/data/common/data/timecycle/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/tune/",
+      "path": "/data/common/data/tune/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19750
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/ugc/",
+      "path": "/data/common/data/ugc/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/ui/",
+      "path": "/data/common/data/ui/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/anim/",
+      "path": "/data/common/non_final/anim/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/anim/clip_dictionary_metadata/",
+      "path": "/data/common/non_final/anim/clip_dictionary_metadata/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/anim/move/dofmaps/",
+      "path": "/data/common/non_final/anim/move/dofmaps/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19797
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/anim/move/nodemaps/",
+      "path": "/data/common/non_final/anim/move/nodemaps/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/cutscene/",
+      "path": "/data/common/non_final/cutscene/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/cutscene/tune/",
+      "path": "/data/common/non_final/cutscene/tune/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/",
+      "path": "/data/common/non_final/www/parser/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/css/",
+      "path": "/data/common/non_final/www/parser/css/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/css/main.css.map",
+      "path": "/data/common/non_final/www/parser/css/main.css.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25062
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/js/",
+      "path": "/data/common/non_final/www/parser/js/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/js/common.js.map",
+      "path": "/data/common/non_final/www/parser/js/common.js.map",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19656
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/js/psomismatch.js.map",
+      "path": "/data/common/non_final/www/parser/js/psomismatch.js.map",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19844
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/js/schemas.js.map",
+      "path": "/data/common/non_final/www/parser/js/schemas.js.map",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19594
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/psomismatch.html.map",
+      "path": "/data/common/non_final/www/parser/psomismatch.html.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/parser/schemas.html.map",
+      "path": "/data/common/non_final/www/parser/schemas.html.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/shaders/",
+      "path": "/data/common/shaders/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/shaders/db/",
+      "path": "/data/common/shaders/db/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/shaders/win32_40/",
+      "path": "/data/common/shaders/win32_40/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/shaders/win32_40_lq/",
+      "path": "/data/common/shaders/win32_40_lq/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/common/shaders/win32_nvstereo/",
+      "path": "/data/common/shaders/win32_nvstereo/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/",
+      "path": "/data/x64/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/anim/",
+      "path": "/data/x64/anim/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/anim/cutscene/",
+      "path": "/data/x64/anim/cutscene/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/anim/ingame/",
+      "path": "/data/x64/anim/ingame/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/audio/",
+      "path": "/data/x64/audio/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/audio/config/",
+      "path": "/data/x64/audio/config/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/audio/sfx/",
+      "path": "/data/x64/audio/sfx/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/audio/tracks/",
+      "path": "/data/x64/audio/tracks/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/",
+      "path": "/data/x64/data/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/anim/clip_sets/",
+      "path": "/data/x64/data/anim/clip_sets/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/cdimages/",
+      "path": "/data/x64/data/cdimages/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/control/",
+      "path": "/data/x64/data/control/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/control/Keyboard Layout/",
+      "path": "/data/x64/data/control/Keyboard Layout/",
+      "status": null,
+      "error": "URL can't contain control characters. '/data/x64/data/control/Keyboard Layout/' (found at least ' ')",
+      "bytes": 0,
+      "elapsed_ms": 0
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/effects/",
+      "path": "/data/x64/data/effects/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/errorcodes/",
+      "path": "/data/x64/data/errorcodes/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/lang/",
+      "path": "/data/x64/data/lang/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/eula/",
+      "path": "/data/x64/data/legal/eula/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19750
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/policychange/",
+      "path": "/data/x64/data/legal/policychange/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19813
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/pp/",
+      "path": "/data/x64/data/legal/pp/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19610
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/tos/",
+      "path": "/data/x64/data/legal/tos/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19985
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/version/",
+      "path": "/data/x64/data/legal/version/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19719
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/materials/",
+      "path": "/data/x64/data/materials/",
+      "status": 502,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19625
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/metadata/",
+      "path": "/data/x64/data/metadata/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/metadata/ai/",
+      "path": "/data/x64/data/metadata/ai/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19750
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/tune/",
+      "path": "/data/x64/data/tune/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19906
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpBeach/",
+      "path": "/data/x64/dlcPacks/mpBeach/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19796
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpBusiness/",
+      "path": "/data/x64/dlcPacks/mpBusiness/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpBusiness2/",
+      "path": "/data/x64/dlcPacks/mpBusiness2/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19953
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpChristmas/",
+      "path": "/data/x64/dlcPacks/mpChristmas/",
+      "status": 502,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20062
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpHipster/",
+      "path": "/data/x64/dlcPacks/mpHipster/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpIndependence/",
+      "path": "/data/x64/dlcPacks/mpIndependence/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpLTS/",
+      "path": "/data/x64/dlcPacks/mpLTS/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpPilot/",
+      "path": "/data/x64/dlcPacks/mpPilot/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/mpValentines/",
+      "path": "/data/x64/dlcPacks/mpValentines/",
+      "status": 502,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/spUpgrade/",
+      "path": "/data/x64/dlcPacks/spUpgrade/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19640
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/verityRadio/",
+      "path": "/data/x64/dlcPacks/verityRadio/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19609
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/",
+      "path": "/data/x64/levels/env_test/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/ap/",
+      "path": "/data/x64/levels/env_test/ap/",
+      "status": 502,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19765
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/bk/",
+      "path": "/data/x64/levels/env_test/bk/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/co1/",
+      "path": "/data/x64/levels/env_test/co1/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19985
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/countryside/",
+      "path": "/data/x64/levels/env_test/countryside/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19984
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/dn/",
+      "path": "/data/x64/levels/env_test/dn/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19797
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/ds/",
+      "path": "/data/x64/levels/env_test/ds/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 24047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/fi/",
+      "path": "/data/x64/levels/env_test/fi/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 24047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/fw/",
+      "path": "/data/x64/levels/env_test/fw/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25063
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/id/",
+      "path": "/data/x64/levels/env_test/id/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19250
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/nb/",
+      "path": "/data/x64/levels/env_test/nb/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20266
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/nm/",
+      "path": "/data/x64/levels/env_test/nm/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 24735
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/note/",
+      "path": "/data/x64/levels/env_test/note/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19906
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/po/",
+      "path": "/data/x64/levels/env_test/po/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 21203
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/rail/",
+      "path": "/data/x64/levels/env_test/rail/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19796
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/sb/",
+      "path": "/data/x64/levels/env_test/sb/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/scenario/",
+      "path": "/data/x64/levels/env_test/scenario/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 18281
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/sea/",
+      "path": "/data/x64/levels/env_test/sea/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/sn/",
+      "path": "/data/x64/levels/env_test/sn/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/ss/",
+      "path": "/data/x64/levels/env_test/ss/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/tmp/",
+      "path": "/data/x64/levels/env_test/tmp/",
+      "status": 522,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19766
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/tw3/",
+      "path": "/data/x64/levels/env_test/tw3/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 22250
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/vi/",
+      "path": "/data/x64/levels/env_test/vi/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 23812
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/env_test/vk/",
+      "path": "/data/x64/levels/env_test/vk/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/generic/",
+      "path": "/data/x64/levels/generic/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25016
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/",
+      "path": "/data/x64/levels/gta5/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/",
+      "path": "/data/x64/levels/gta5/_citye/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19609
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/downtown_01/",
+      "path": "/data/x64/levels/gta5/_citye/downtown_01/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/hollywood_01/",
+      "path": "/data/x64/levels/gta5/_citye/hollywood_01/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/indust_01/",
+      "path": "/data/x64/levels/gta5/_citye/indust_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 24156
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/indust_02/",
+      "path": "/data/x64/levels/gta5/_citye/indust_02/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/port_01/",
+      "path": "/data/x64/levels/gta5/_citye/port_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20718
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/scentral_01/",
+      "path": "/data/x64/levels/gta5/_citye/scentral_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20484
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_citye/sunset/",
+      "path": "/data/x64/levels/gta5/_citye/sunset/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/",
+      "path": "/data/x64/levels/gta5/_cityw/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/airport_01/",
+      "path": "/data/x64/levels/gta5/_cityw/airport_01/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/beverly_01/",
+      "path": "/data/x64/levels/gta5/_cityw/beverly_01/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/koreatown_01/",
+      "path": "/data/x64/levels/gta5/_cityw/koreatown_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 24422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/sanpedro_01/",
+      "path": "/data/x64/levels/gta5/_cityw/sanpedro_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 21282
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/santamon_01/",
+      "path": "/data/x64/levels/gta5/_cityw/santamon_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19656
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_cityw/venice_01/",
+      "path": "/data/x64/levels/gta5/_cityw/venice_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19406
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/",
+      "path": "/data/x64/levels/gta5/_hills/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/cityhills_01/",
+      "path": "/data/x64/levels/gta5/_hills/cityhills_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 18235
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/cityhills_02/",
+      "path": "/data/x64/levels/gta5/_hills/cityhills_02/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 18360
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/cityhills_03/",
+      "path": "/data/x64/levels/gta5/_hills/cityhills_03/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/country_01/",
+      "path": "/data/x64/levels/gta5/_hills/country_01/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 18360
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/country_02/",
+      "path": "/data/x64/levels/gta5/_hills/country_02/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 20266
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/country_03/",
+      "path": "/data/x64/levels/gta5/_hills/country_03/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/country_04/",
+      "path": "/data/x64/levels/gta5/_hills/country_04/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 10375
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/country_05/",
+      "path": "/data/x64/levels/gta5/_hills/country_05/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 18250
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_hills/country_06/",
+      "path": "/data/x64/levels/gta5/_hills/country_06/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 17953
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/_prologue/",
+      "path": "/data/x64/levels/gta5/_prologue/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 21797
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/cloudhats/",
+      "path": "/data/x64/levels/gta5/cloudhats/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 16656
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/destruction/exterior/",
+      "path": "/data/x64/levels/gta5/destruction/exterior/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 18641
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/destruction/interior/",
+      "path": "/data/x64/levels/gta5/destruction/interior/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 16187
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/generic/",
+      "path": "/data/x64/levels/gta5/generic/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 13531
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/interiors/",
+      "path": "/data/x64/levels/gta5/interiors/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 12671
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/interiors/int_props/",
+      "path": "/data/x64/levels/gta5/interiors/int_props/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 12641
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/outsource/",
+      "path": "/data/x64/levels/gta5/outsource/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 11906
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/",
+      "path": "/data/x64/levels/gta5/props/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 11906
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/building/",
+      "path": "/data/x64/levels/gta5/props/building/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 15578
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/commercial/",
+      "path": "/data/x64/levels/gta5/props/commercial/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 21641
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/industrial/",
+      "path": "/data/x64/levels/gta5/props/industrial/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 9781
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/lev_des/",
+      "path": "/data/x64/levels/gta5/props/lev_des/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 17860
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/procedural/",
+      "path": "/data/x64/levels/gta5/props/procedural/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 14281
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/recreational/",
+      "path": "/data/x64/levels/gta5/props/recreational/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 15516
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/residential/",
+      "path": "/data/x64/levels/gta5/props/residential/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 13390
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/roadside/",
+      "path": "/data/x64/levels/gta5/props/roadside/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 10594
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/rt_bink/",
+      "path": "/data/x64/levels/gta5/props/rt_bink/",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/rural/",
+      "path": "/data/x64/levels/gta5/props/rural/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 19140
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/props/vegetation/",
+      "path": "/data/x64/levels/gta5/props/vegetation/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 8844
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/scenario/",
+      "path": "/data/x64/levels/gta5/scenario/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 8828
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/script/",
+      "path": "/data/x64/levels/gta5/script/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 9625
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/streaming/",
+      "path": "/data/x64/levels/gta5/streaming/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 10547
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/vehiclemods/",
+      "path": "/data/x64/levels/gta5/vehiclemods/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 8031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/stripped/",
+      "path": "/data/x64/levels/stripped/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 8031
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/testbed/script/",
+      "path": "/data/x64/levels/testbed/script/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 21000
+    },
+    {
+      "url": "https://playgta5.com/data/x64/models/",
+      "path": "/data/x64/models/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 10719
+    },
+    {
+      "url": "https://playgta5.com/data/x64/models/cdimages/",
+      "path": "/data/x64/models/cdimages/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 15797
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/anim/",
+      "path": "/data/x64/patch/anim/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 9360
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/gta5/props/lev_des/",
+      "path": "/data/x64/patch/levels/gta5/props/lev_des/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 8938
+    },
+    {
+      "url": "https://playgta5.com/data/x64/textures/",
+      "path": "/data/x64/textures/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 16375
+    },
+    {
+      "url": "https://playgta5.com/data/x64/textures/level_design_titleupdate/",
+      "path": "/data/x64/textures/level_design_titleupdate/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 13329
+    },
+    {
+      "url": "https://playgta5.com/data/x64/textures/level_design_titleupdate_live/",
+      "path": "/data/x64/textures/level_design_titleupdate_live/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 9313
+    },
+    {
+      "url": "https://playgta5.com/data/x64/textures/sandbox/",
+      "path": "/data/x64/textures/sandbox/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 9375
+    },
+    {
+      "url": "https://playgta5.com/favicon.ico",
+      "path": "/favicon.ico",
+      "status": 200,
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 7358,
+      "elapsed_ms": 47
+    },
+    {
+      "url": "https://playgta5.com/favicon.png",
+      "path": "/favicon.png",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/humans.txt",
+      "path": "/humans.txt",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/index.html.map",
+      "path": "/index.html.map",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25047
+    },
+    {
+      "url": "https://playgta5.com/manifest.json",
+      "path": "/manifest.json",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/manifest.webmanifest",
+      "path": "/manifest.webmanifest",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/robots.txt",
+      "path": "/robots.txt",
+      "status": 200,
+      "content_type": "text/plain",
+      "bytes": 14,
+      "elapsed_ms": 32
+    },
+    {
+      "url": "https://playgta5.com/security.txt",
+      "path": "/security.txt",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25016
+    },
+    {
+      "url": "https://playgta5.com/site.webmanifest",
+      "path": "/site.webmanifest",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25016
+    },
+    {
+      "url": "https://playgta5.com/sitemap-index.xml",
+      "path": "/sitemap-index.xml",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25016
+    },
+    {
+      "url": "https://playgta5.com/sitemap.xml",
+      "path": "/sitemap.xml",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/sitemap_index.xml",
+      "path": "/sitemap_index.xml",
+      "status": null,
+      "error": "The read operation timed out",
+      "bytes": 0,
+      "elapsed_ms": 25032
+    },
+    {
+      "url": "https://playgta5.com/",
+      "path": "/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 45087,
+      "elapsed_ms": 140
+    },
+    {
+      "url": "https://playgta5.com/b/",
+      "path": "/b/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 531
+    },
+    {
+      "url": "https://playgta5.com/b/8b0b5899ed/prejs.js",
+      "path": "/b/8b0b5899ed/prejs.js",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/anim/",
+      "path": "/data/common/data/anim/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/audio/",
+      "path": "/data/common/data/audio/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE/",
+      "path": "/data/common/data/glass/PANE/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/PANE_WEAK/",
+      "path": "/data/common/data/glass/PANE_WEAK/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 500
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/glass/SECURITY/",
+      "path": "/data/common/data/glass/SECURITY/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 500
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/levels/",
+      "path": "/data/common/data/levels/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 515
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/",
+      "path": "/data/common/data/script/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 500
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SPDeadline/",
+      "path": "/data/common/data/script/xml/SPDeadline/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 453
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/SP_Races/",
+      "path": "/data/common/data/script/xml/SP_Races/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 391
+    },
+    {
+      "url": "https://playgta5.com/data/common/data/script/xml/ShootingRange/",
+      "path": "/data/common/data/script/xml/ShootingRange/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 453
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/",
+      "path": "/data/common/non_final/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 359
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/anim/move/",
+      "path": "/data/common/non_final/anim/move/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 421
+    },
+    {
+      "url": "https://playgta5.com/data/common/non_final/www/",
+      "path": "/data/common/non_final/www/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 406
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/anim/",
+      "path": "/data/x64/data/anim/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 438
+    },
+    {
+      "url": "https://playgta5.com/data/x64/data/legal/",
+      "path": "/data/x64/data/legal/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/dlcPacks/",
+      "path": "/data/x64/dlcPacks/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 390
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/",
+      "path": "/data/x64/levels/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/gta5/destruction/",
+      "path": "/data/x64/levels/gta5/destruction/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 406
+    },
+    {
+      "url": "https://playgta5.com/data/x64/levels/testbed/",
+      "path": "/data/x64/levels/testbed/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 375
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/",
+      "path": "/data/x64/patch/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 437
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/",
+      "path": "/data/x64/patch/levels/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/gta5/",
+      "path": "/data/x64/patch/levels/gta5/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    },
+    {
+      "url": "https://playgta5.com/data/x64/patch/levels/gta5/props/",
+      "path": "/data/x64/patch/levels/gta5/props/",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 407
+    },
+    {
+      "url": "https://playgta5.com/sw.js",
+      "path": "/sw.js",
+      "status": 404,
+      "content_type": "text/plain;charset=UTF-8",
+      "bytes": 0,
+      "elapsed_ms": 422
+    }
+  ],
+  "coverage": [
+    "robots/sitemaps/icons/web manifests/.well-known security",
+    "runtime source-map candidates",
+    "build-local manifest/service-worker candidates",
+    "one trailing-slash request for every directory derived from the 12,480-path inventory",
+    "same-origin references extracted from successful textual responses",
+    "untested ancestor closure (including / and /b/) plus explicit /sw.js and current-build /prejs.js; follow-up timeout reduced to 8 seconds after the origin showed uncached-path instability"
+  ],
+  "limits": [
+    "No authentication, credentials, bypasses, parameter fuzzing, or blind filename dictionaries.",
+    "A non-listing directory response cannot prove undisclosed children absent.",
+    "References embedded only in binary assets or constructed dynamically beyond inspected textual responses are outside this crawl.",
+    "HTTP success is retained only when it is not the known generic homepage fallback; non-200 results are logged but not downloaded.",
+    "Follow-up ancestor attempts that timed out or returned 5xx establish no absence; they reflect origin availability during this capture."
+  ]
+}

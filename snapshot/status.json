@@ -1,0 +1,13 @@
+{
+  "pid": 3048,
+  "completed": 5879,
+  "total": 5879,
+  "received_bytes_this_run": 20314451729,
+  "elapsed_seconds": 190,
+  "average_MiB_s": 101.81,
+  "failures": 0,
+  "phase": "complete",
+  "inventory_files": 12482,
+  "inventory_bytes": 21158604965,
+  "verification": "passed; browser gameplay not tested"
+}
