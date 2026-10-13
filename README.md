@@ -9,15 +9,14 @@ Telegram: @SebasKitten
 X: @Sebas_Kitten
 
 # Link
-Telegram: https://t.me/reGRANDTA
 
-Discord: https://discord.gg/hrbcPjjZfj
+Discord: https://dsc.gg/lynx-modz
 
 
 # Disclaimer
 I don't host the `.\mirror` folder since it has copyrighted content from Rockstar Games. Please find the files by yourself.
 
-No copyrighted file is included in this repo. If Rockstar Games or any affiliated group think this repo has copyright infringement things, email me at shadany7824@gmail.com for me to took it down.
+No copyrighted file is included in this repo. If Rockstar Games or any affiliated group think this repo has copyright infringement things, email me at lynxmodz99@gmail.com for me to took it down.
 
 And don't email me for asking the mirror folder. I will not reply to the email.
 
